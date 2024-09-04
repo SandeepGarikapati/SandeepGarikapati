@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hema Sandeep</h1>
-<h3 align="center">Fullstack Developer|Machine Learning Enthusiastic|Andriod Developer</h3>
+<h3 align="center">Fullstack Developer|Machine Learning Enthusiastic|Python Developer</h3>
 
 
 - 🔭 I’m currently working on **C++**
