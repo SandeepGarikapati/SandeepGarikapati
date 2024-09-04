@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer|Machine Learning Enthusiastic|Andriod Developer</h3>
 
 
-- 🔭 I’m currently working on **Weather Website**
+- 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **DSA, **JAVA,**PYTHON
 
