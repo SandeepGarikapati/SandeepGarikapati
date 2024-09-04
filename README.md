@@ -21,3 +21,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgarikapati&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgarikapati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepgarikapati" alt="sandeepgarikapati" /></a> </p>
+
+<a href="https://github.com/sandeepgarikapati" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7282&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
