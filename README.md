@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandeepGarikapati?tab=repositories](https://github.com/SandeepGarikapati?tab=repositories)
 
+- 🙋‍♂️ Personal Portfolio [www.sandeepgarikapati.tech]
+
 - 📫 How to reach me **sandeepgarikapati17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
