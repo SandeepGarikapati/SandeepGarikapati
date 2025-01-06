@@ -1,4 +1,3 @@
-![gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 # 💫 About Me:
 🔭 I’m currently working on C++<br><br>🌱 I’m currently learning **DSA, **JAVA,**PYTHON<br><br>👨‍💻 All of my projects are available at https://github.com/SandeepGarikapati?tab=repositories<br><br>🙋‍♂️ Personal Portfolio [www.sandeepgarikapati.tech]<br><br>📫 How to reach me sandeepgarikapati17@gmail.com
 
